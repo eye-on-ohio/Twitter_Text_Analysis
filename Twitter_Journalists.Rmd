@@ -333,8 +333,8 @@ ggplot(Tidy_kittens_sentiment, aes(`hour(created_at)`, sentiment)) +
             position=position_dodge(width =0.9)
             )+
   labs(title = "Tweets mentioning kittens", subtitle = "The number of positive words minus negative words in a sample \n of 1,000 tweets in the last month", caption = "Analysis by Eye on Ohio, the Ohio Center for Journalism")+
-  ylab("Hour")+
-  xlab("Sentiment")
+  ylab("Sentiment")+
+  xlab("Hour")
 ```
 
 sunshine
@@ -382,8 +382,8 @@ ggplot(Tidy_sunshine_sentiment, aes(`minute(created_at)`, sentiment)) +
             size= 2.5
             )+
   labs(title = "Tweets mentioning sunshine", subtitle = "The number of positive words minus negative words in a sample \n of 1,000 tweets in the last month", caption = "Analysis by Eye on Ohio, the Ohio Center for Journalism")+
-  ylab("Minute")+
-  xlab("Sentiment")
+  ylab("Sentiment")+
+  xlab("Minute")
 ```
 
 
