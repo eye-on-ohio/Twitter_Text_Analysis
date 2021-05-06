@@ -6,3 +6,5 @@ This isn't a scientific study; nor is it meant to be. This is just a look at lan
 You can adapt this code for your own use with a share-share alike license. (In other words, please use it, but please cite us.)
 
 For the background of how we coded this, please see ["Text Mining with R"](https://www.tidytextmining.com)
+
+Please remember to cite us if you use this! 
