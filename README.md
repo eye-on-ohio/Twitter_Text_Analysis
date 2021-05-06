@@ -7,4 +7,4 @@ You can adapt this code for your own use with a share-share alike license. (In o
 
 For the background of how we coded this, please see ["Text Mining with R"](https://www.tidytextmining.com)
 
-Please remember to _cite us_ if you use this! 
+Please remember to *cite us* if you use this! 
