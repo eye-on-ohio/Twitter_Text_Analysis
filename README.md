@@ -1,5 +1,5 @@
 # Twitter_Text_Analysis
-This code is for a story that [Eye on Ohio](EyeonOhio.com) did looking at online harrassment that journalists and others [face.](https://eyeonohio.com/sidebar-shut-your-mouth-journalists-face-a-rising-tide-of-online-harassment/) 
+This code is for a story that [Eye on Ohio](https://EyeonOhio.com) did looking at online harrassment that journalists and others [face.](https://eyeonohio.com/sidebar-shut-your-mouth-journalists-face-a-rising-tide-of-online-harassment/) 
 
 This isn't a scientific study; nor is it meant to be. This is just a look at language posted online using publicly available text mining tools and sentiment analysis.
 
